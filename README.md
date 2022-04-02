@@ -46,6 +46,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://www.linkedin.com/in/andrea-bellver-garcia/)
-- GitHub [@your-username](https://github.com/ponisworld)
-- Twitter [@your-twitter](https://twitter.com/abgellver)
+- Website [linkedin.com](https://www.linkedin.com/in/andrea-bellver-garcia/)
+- GitHub [@ponisworld](https://github.com/ponisworld)
+- Twitter [@abgellver](https://twitter.com/abgellver)
